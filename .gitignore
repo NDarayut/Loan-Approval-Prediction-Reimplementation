@@ -1,0 +1,12 @@
+# Environment Modules
+.env
+.venv
+venv/
+myenv/
+.virtualenvs/
+.conda/envs/
+.local/lib/python*/site-packages/
+
+# Dataset
+.data
+raw/
