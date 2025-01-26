@@ -9,7 +9,8 @@ myenv/
 
 # Dataset
 .data
-data/
+clean/
 
-.notebooks
 mlruns/
+
+.logs
