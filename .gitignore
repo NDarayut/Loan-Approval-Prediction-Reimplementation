@@ -9,4 +9,7 @@ myenv/
 
 # Dataset
 .data
-raw/
+data/
+
+.notebooks
+mlruns/
