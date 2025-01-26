@@ -10,5 +10,5 @@ Volume 4,
 Pages 327-339,
 ISSN 2666-3074,
 https://doi.org/10.1016/j.ijcce.2023.09.001.
-(https://www.sciencedirect.com/science/article/pii/S2666307423000293)```  
+(https://www.sciencedirect.com/science/article/pii/S2666307423000293)
 
